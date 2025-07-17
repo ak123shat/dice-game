@@ -6,4 +6,4 @@ A fun browser-based dice game built using HTML, CSS, and JavaScript. Click the b
 
 ## 💻 Demo
 
-[Click here to play the game](https://github.com/ak123shat.github.io/dice-game
+[Click here to play the game](https://github.com/ak123shat/dice-game
